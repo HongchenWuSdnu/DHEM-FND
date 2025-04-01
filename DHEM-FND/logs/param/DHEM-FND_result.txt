@@ -1,0 +1,470 @@
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.02s/it]
+curent {'metric': 0.9289, 'auc': 0.9769, 'recall': 0.9289, 'precision': 0.9289, 'acc': 0.9301}
+Epoch 6:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 6: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.12s/it]
+Epoch 6 | Avg Loss: 0.0949
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.00s/it]
+curent {'metric': 0.9306, 'auc': 0.9793, 'recall': 0.9315, 'precision': 0.9299, 'acc': 0.9316}
+Max {'metric': 0.9306, 'auc': 0.9793, 'recall': 0.9315, 'precision': 0.9299, 'acc': 0.9316}
+Epoch 7:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 7: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.12s/it]
+Epoch 7 | Avg Loss: 0.0664
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.01s/it]
+curent {'metric': 0.9157, 'auc': 0.9789, 'recall': 0.9196, 'precision': 0.9141, 'acc': 0.9164}
+Epoch 8:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 8: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:35<00:00,  1.13s/it]
+Epoch 8 | Avg Loss: 0.0465
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.01s/it]
+curent {'metric': 0.9201, 'auc': 0.9781, 'recall': 0.9228, 'precision': 0.9185, 'acc': 0.921}
+Epoch 9:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 9: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:35<00:00,  1.13s/it]
+Epoch 9 | Avg Loss: 0.0390
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.02s/it]
+curent {'metric': 0.9291, 'auc': 0.9807, 'recall': 0.9301, 'precision': 0.9282, 'acc': 0.9301}
+Epoch 7:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 7: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.11s/it]
+Epoch 7 | Avg Loss: 0.0668
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.03s/it]
+curent {'metric': 0.9226, 'auc': 0.9757, 'recall': 0.9216, 'precision': 0.9237, 'acc': 0.924}
+Max {'metric': 0.9226, 'auc': 0.9757, 'recall': 0.9216, 'precision': 0.9237, 'acc': 0.924}
+Epoch 8:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 8: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.11s/it]
+Epoch 8 | Avg Loss: 0.0502
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.00s/it]
+curent {'metric': 0.9155, 'auc': 0.9775, 'recall': 0.918, 'precision': 0.914, 'acc': 0.9164}
+Epoch 9:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 9: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.11s/it]
+Epoch 9 | Avg Loss: 0.0404
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.01s/it]
+curent {'metric': 0.9184, 'auc': 0.9785, 'recall': 0.9199, 'precision': 0.9172, 'acc': 0.9195}
+Epoch 10:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 10: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.11s/it]
+Epoch 10 | Avg Loss: 0.0324
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.02s/it]
+curent {'metric': 0.914, 'auc': 0.977, 'recall': 0.9166, 'precision': 0.9124, 'acc': 0.9149}
+Early stopping at epoch 10
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.00it/s]
+Final Test Results: {'metric': 0.9223, 'auc': 0.9749, 'recall': 0.9227, 'precision': 0.9219, 'acc': 0.9226}
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-base and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Initializing memory:   0%|                                                                                                                                                            | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Initializing memory: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:18<00:00,  1.64it/s]
+Memory initialization completed
+Epoch 1:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 1: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:33<00:00,  1.09s/it]
+Epoch 1 | Avg Loss: 0.6578
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.01s/it]
+curent {'metric': 0.7286, 'auc': 0.8135, 'recall': 0.7279, 'precision': 0.7297, 'acc': 0.734}
+Max {'metric': 0.7286, 'auc': 0.8135, 'recall': 0.7279, 'precision': 0.7297, 'acc': 0.734}
+Epoch 2:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 2: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:33<00:00,  1.09s/it]
+Epoch 2 | Avg Loss: 0.5412
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.02s/it]
+curent {'metric': 0.8409, 'auc': 0.9263, 'recall': 0.8411, 'precision': 0.8408, 'acc': 0.8435}
+Max {'metric': 0.8409, 'auc': 0.9263, 'recall': 0.8411, 'precision': 0.8408, 'acc': 0.8435}
+Epoch 3:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 3: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.10s/it]
+Epoch 3 | Avg Loss: 0.3956
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.01s/it]
+curent {'metric': 0.8789, 'auc': 0.9595, 'recall': 0.8825, 'precision': 0.8775, 'acc': 0.8799}
+Max {'metric': 0.8789, 'auc': 0.9595, 'recall': 0.8825, 'precision': 0.8775, 'acc': 0.8799}
+Epoch 4:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 4: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:33<00:00,  1.09s/it]
+Epoch 4 | Avg Loss: 0.2765
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.01s/it]
+curent {'metric': 0.9241, 'auc': 0.971, 'recall': 0.9233, 'precision': 0.9251, 'acc': 0.9255}
+Max {'metric': 0.9241, 'auc': 0.971, 'recall': 0.9233, 'precision': 0.9251, 'acc': 0.9255}
+Epoch 5:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 5: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.10s/it]
+Epoch 5 | Avg Loss: 0.1839
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.01s/it]
+curent {'metric': 0.9335, 'auc': 0.9778, 'recall': 0.9334, 'precision': 0.9337, 'acc': 0.9347}
+Max {'metric': 0.9335, 'auc': 0.9778, 'recall': 0.9334, 'precision': 0.9337, 'acc': 0.9347}
+Max {'metric': 0.9216, 'auc': 0.9782, 'recall': 0.9238, 'precision': 0.9201, 'acc': 0.9225}
+best metric: {'metric': 0.9315, 'auc': 0.9771, 'recall': 0.933, 'precision': 0.931, 'acc': 0.9317}
+2025-03-18 15:36:41,351 - root - INFO - Start training...
+2025-03-18 15:41:52,886 - root - INFO - Start training...
+{'lr': [0.0001, 0.0001, 0.0001, 0.0001, 0.0001, 0.0001, 0.0001, 0.0001, 0.0001, 0.0001]}
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-base and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Initializing memory:   0%|                                                                                                                                                            | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+D:\Anaconda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at C:\cb\pytorch_1000000000000\work\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:263.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+Initializing memory: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:16<00:00,  1.89it/s]
+Memory initialization completed
+Epoch 1:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 1: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:28<00:00,  1.08it/s]
+Epoch 1 | Avg Loss: 0.6387
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.09it/s]
+curent {'metric': 0.7378, 'auc': 0.8662, 'recall': 0.7579, 'precision': 0.7688, 'acc': 0.7386}
+Max {'metric': 0.7378, 'auc': 0.8662, 'recall': 0.7579, 'precision': 0.7688, 'acc': 0.7386}
+Epoch 2:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 2: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:28<00:00,  1.08it/s]
+Epoch 2 | Avg Loss: 0.5145
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.09it/s]
+curent {'metric': 0.85, 'auc': 0.9292, 'recall': 0.8541, 'precision': 0.849, 'acc': 0.8511}
+Max {'metric': 0.85, 'auc': 0.9292, 'recall': 0.8541, 'precision': 0.849, 'acc': 0.8511}
+Epoch 3:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 3: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:29<00:00,  1.06it/s]
+Epoch 3 | Avg Loss: 0.3865
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.08it/s]
+curent {'metric': 0.8853, 'auc': 0.9614, 'recall': 0.8841, 'precision': 0.8868, 'acc': 0.8875}
+Max {'metric': 0.8853, 'auc': 0.9614, 'recall': 0.8841, 'precision': 0.8868, 'acc': 0.8875}
+Epoch 4:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 4: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:30<00:00,  1.02it/s]
+Epoch 4 | Avg Loss: 0.2623
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.06it/s]
+curent {'metric': 0.9078, 'auc': 0.9699, 'recall': 0.9105, 'precision': 0.9063, 'acc': 0.9088}
+Max {'metric': 0.9078, 'auc': 0.9699, 'recall': 0.9105, 'precision': 0.9063, 'acc': 0.9088}
+Epoch 5:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 5: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:31<00:00,  1.01s/it]
+Epoch 5 | Avg Loss: 0.1697
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.06it/s]
+curent {'metric': 0.9062, 'auc': 0.9736, 'recall': 0.9083, 'precision': 0.9048, 'acc': 0.9073}
+Epoch 6:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 6: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:31<00:00,  1.03s/it]
+Epoch 6 | Avg Loss: 0.1089
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.06it/s]
+curent {'metric': 0.9109, 'auc': 0.9723, 'recall': 0.9135, 'precision': 0.9094, 'acc': 0.9119}
+Max {'metric': 0.9109, 'auc': 0.9723, 'recall': 0.9135, 'precision': 0.9094, 'acc': 0.9119}
+Epoch 7:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 7: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:32<00:00,  1.04s/it]
+Epoch 7 | Avg Loss: 0.0785
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.04it/s]
+curent {'metric': 0.9083, 'auc': 0.971, 'recall': 0.9059, 'precision': 0.9116, 'acc': 0.9103}
+Epoch 8:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 8: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:32<00:00,  1.05s/it]
+Epoch 8 | Avg Loss: 0.0534
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.02it/s]
+curent {'metric': 0.911, 'auc': 0.9759, 'recall': 0.9143, 'precision': 0.9094, 'acc': 0.9119}
+Max {'metric': 0.911, 'auc': 0.9759, 'recall': 0.9143, 'precision': 0.9094, 'acc': 0.9119}
+Epoch 9:   0%|                                                                                                                                                                        | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 9: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:32<00:00,  1.06s/it]
+Epoch 9 | Avg Loss: 0.0413
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.03it/s]
+curent {'metric': 0.9183, 'auc': 0.978, 'recall': 0.9195, 'precision': 0.9174, 'acc': 0.9195}
+Max {'metric': 0.9183, 'auc': 0.978, 'recall': 0.9195, 'precision': 0.9174, 'acc': 0.9195}
+Epoch 10:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 10: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:33<00:00,  1.07s/it]
+Epoch 10 | Avg Loss: 0.0347
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.02it/s]
+curent {'metric': 0.9153, 'auc': 0.9778, 'recall': 0.9168, 'precision': 0.9142, 'acc': 0.9164}
+Epoch 11:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 11: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:33<00:00,  1.08s/it]
+Epoch 11 | Avg Loss: 0.0260
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.03it/s]
+curent {'metric': 0.9164, 'auc': 0.9765, 'recall': 0.9154, 'precision': 0.9175, 'acc': 0.9179}
+Epoch 12:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 12: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:33<00:00,  1.08s/it]
+Epoch 12 | Avg Loss: 0.0233
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.02it/s]
+curent {'metric': 0.9184, 'auc': 0.9774, 'recall': 0.9199, 'precision': 0.9172, 'acc': 0.9195}
+Max {'metric': 0.9184, 'auc': 0.9774, 'recall': 0.9199, 'precision': 0.9172, 'acc': 0.9195}
+Epoch 13:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 13: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:33<00:00,  1.09s/it]
+Epoch 13 | Avg Loss: 0.0190
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.05it/s]
+curent {'metric': 0.9138, 'auc': 0.9777, 'recall': 0.9155, 'precision': 0.9126, 'acc': 0.9149}
+Epoch 14:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 14: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.10s/it]
+Epoch 14 | Avg Loss: 0.0161
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.01it/s]
+curent {'metric': 0.9168, 'auc': 0.9776, 'recall': 0.9178, 'precision': 0.9159, 'acc': 0.9179}
+Epoch 15:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 15: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:33<00:00,  1.09s/it]
+Epoch 15 | Avg Loss: 0.0158
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.03it/s]
+curent {'metric': 0.9215, 'auc': 0.9795, 'recall': 0.923, 'precision': 0.9203, 'acc': 0.9225}
+Max {'metric': 0.9215, 'auc': 0.9795, 'recall': 0.923, 'precision': 0.9203, 'acc': 0.9225}
+Epoch 16:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 16: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.11s/it]
+Epoch 16 | Avg Loss: 0.0145
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.01it/s]
+curent {'metric': 0.9183, 'auc': 0.9787, 'recall': 0.9191, 'precision': 0.9176, 'acc': 0.9195}
+Epoch 17:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 17: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.12s/it]
+Epoch 17 | Avg Loss: 0.0132
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.02it/s]
+curent {'metric': 0.9096, 'auc': 0.978, 'recall': 0.9134, 'precision': 0.908, 'acc': 0.9103}
+Epoch 18:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 18: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.13s/it]
+Epoch 18 | Avg Loss: 0.0107
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.03it/s]
+curent {'metric': 0.9231, 'auc': 0.9775, 'recall': 0.9251, 'precision': 0.9217, 'acc': 0.924}
+Max {'metric': 0.9231, 'auc': 0.9775, 'recall': 0.9251, 'precision': 0.9217, 'acc': 0.924}
+Epoch 19:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 19: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:34<00:00,  1.13s/it]
+Epoch 19 | Avg Loss: 0.0093
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:11<00:00,  1.01s/it]
+curent {'metric': 0.923, 'auc': 0.9775, 'recall': 0.9247, 'precision': 0.9218, 'acc': 0.924}
+Epoch 20:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:35<00:00,  1.13s/it]
+Epoch 20 | Avg Loss: 0.0083
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.02it/s]
+curent {'metric': 0.923, 'auc': 0.9773, 'recall': 0.9243, 'precision': 0.9219, 'acc': 0.924}
+Epoch 21:   0%|                                                                                                                                                                       | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Epoch 21: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:35<00:00,  1.15s/it]
+Epoch 21 | Avg Loss: 0.0083
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.01it/s]
+curent {'metric': 0.923, 'auc': 0.9778, 'recall': 0.9247, 'precision': 0.9218, 'acc': 0.924}
+Early stopping at epoch 21
+Testing:   0%|                                                                                                                                                                        | 0/11 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+Testing: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:10<00:00,  1.01it/s]
+Final Test Results: {'metric': 0.93, 'auc': 0.9791, 'recall': 0.9314, 'precision': 0.9294, 'acc': 0.9302}
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-base and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Initializing memory:   0%|                                                                                                                                                            | 0/31 [00:00<?, ?it/s]lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3
+lr: 0.0001; model name: DHEM-FND; batchsize: 64; epoch: 50; gpu: 0; domain_num: 3

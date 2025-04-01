@@ -1,0 +1,45 @@
+def main(self):
+    param_log_dir = self.param_log_dir
+    if not os.path.exists(param_log_dir):
+        os.makedirs(param_log_dir)
+    param_log_file = os.path.join(param_log_dir, self.model_name +'_'+ 'oneloss_param.txt')
+    logger = self.getFileLogger(param_log_file)
+    self.model_name == 'DHEM-FND'
+    train_loader, val_loader, test_loader = self.get_dataloader()
+    if self.model_name == 'DHEM-FND':
+        trainer = DHEMFNDTrainer(emb_dim = self.emb_dim, mlp_dims = self.mlp_dims, use_cuda = self.use_cuda, lr = self.lr, train_loader = train_loader, dropout = self.dropout, weight_decay = self.weight_decay, val_loader = val_loader, test_loader = test_loader, category_dict = self.category_dict, early_stop = self.early_stop, epoches = self.epoch, save_param_dir = os.path.join(self.save_param_dir, self.model_name), semantic_num = self.semantic_num, emotion_num = self.emotion_num, style_num = self.style_num, lnn_dim = self.lnn_dim,dataset = self.dataset)
+    train_param = {
+        'lr': [self.lr] * 10
+    }
+    print(train_param)
+
+    param = train_param
+    best_param = []
+    
+    json_path = './logs/json/' + self.model_name +'.json'
+    json_result = []
+    for p, vs in param.items():
+        best_metric = {}
+        best_metric['metric'] = 0
+        best_v = vs[0]
+        best_model_path = None
+        for i, v in enumerate(vs):
+            setattr(trainer, p, v)
+            metrics, model_path = trainer.train(logger)
+            json_result.append(metrics)
+            if(metrics['metric'] > best_metric['metric']):
+                best_metric = metrics
+                best_v = v
+                best_model_path = model_path
+        best_param.append({p: best_v})
+        print("best model path:", best_model_path)
+        print("best metric:", best_metric)
+        logger.info("best model path:" + best_model_path)
+        logger.info("best param " + p + ": " + str(best_v))
+        logger.info("best metric:" + str(best_metric))
+        logger.info('--------------------------------------\n')
+    with open(json_path, 'w') as file:
+        json.dump(json_result, file, indent=4, ensure_ascii=False)
+
+    # 调用绘图方法
+    trainer.visualize_features()
